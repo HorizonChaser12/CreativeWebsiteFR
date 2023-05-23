@@ -6,10 +6,8 @@ Here is the Screenshot of the Output:
 
 <hr>
 
-![image](https://github.com/HorizonChaser12/CreativeWebsiteFR/assets/78254378/28773f7e-7631-4da0-9eaf-f6743bf24f55)
+![image](https://github.com/HorizonChaser12/CreativeWebsiteFR/assets/78254378/26f939b7-4263-4855-81e2-45ee884b90b1)
 
-![image](https://github.com/HorizonChaser12/CreativeWebsiteFR/assets/78254378/e0fcbefb-a208-4641-8e03-6d138877e4fa)
-
-![image](https://github.com/HorizonChaser12/CreativeWebsiteFR/assets/78254378/b8078193-60f6-4968-9a50-6d8b218ccdaf)
+![image](https://github.com/HorizonChaser12/CreativeWebsiteFR/assets/78254378/3ec4d4a8-cbbc-4030-b42a-ed278bdab016)
 
 <hr>
