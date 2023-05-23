@@ -1,6 +1,6 @@
 ## CreativeWebsiteFR
 
-Learning didn't cost me money so tried my last chance to make something creative using the knowledge I had.
+Learning didn't cost me money so tried my last chance to make something creative using the knowledge I had.It is fully responsive as well as I tried to pick the best Images to make it cute xD.
 
 Here is the Screenshot of the Output:
 
